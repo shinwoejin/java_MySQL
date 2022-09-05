@@ -7,6 +7,7 @@ public class MiniProjectConnectMysql {
         // edit창 띄우기
         // mysql 명령어 입력
         // 실행후 조회(결과 확인)
+        
         return ;
     }
 }
