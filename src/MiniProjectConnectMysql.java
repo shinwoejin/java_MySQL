@@ -50,8 +50,8 @@ public class MiniProjectConnectMysql {
             // select
             System.out.println();
             // delete
-            QUERY = "delete from city "+
-            "where Name = 'Name' ";
+            QUERY = "delete from city " +
+                    "where Name = 'Name' ";
             value = stmt.executeUpdate(QUERY);
             // select
             System.out.println();
