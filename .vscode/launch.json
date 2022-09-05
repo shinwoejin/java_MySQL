@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TermProjectDemo",
+            "request": "launch",
+            "mainClass": "TermProjectDemo",
+            "projectName": "java_mysql_1943d0cc"
+        },
+        {
+            "type": "java",
             "name": "Launch TestApplication_city",
             "request": "launch",
             "mainClass": "TestApplication_city",
