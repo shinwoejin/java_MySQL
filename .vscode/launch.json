@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestApplication_city",
+            "request": "launch",
+            "mainClass": "TestApplication_city",
+            "projectName": "java_mysql_3f4e802f"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
